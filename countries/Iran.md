@@ -1,14 +1,17 @@
 ##Iran
-## population
+## population :80 milion
 
 
-## capital
+## capital Tehran
 
  
-## official language
+## official language : Farsi
 
 
-## interesting trivia
+## interesting trivia : 
+Taarof which means you offer something to someone to be polite but you dont
+ mean it
+
 
 
 
